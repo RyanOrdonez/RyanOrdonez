@@ -31,4 +31,4 @@ Before data science, I spent two decades in high-stakes operational roles — le
 
 ---
 
-[LinkedIn](https://linkedin.com/in/ryanordonez7) · ryanordonez7@gmail.com
+[Portfolio Site](https://ryanordonez.github.io/Portfolio-Site/) · [LinkedIn](https://linkedin.com/in/ryanordonez7) · ryanordonez7@gmail.com
