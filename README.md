@@ -10,7 +10,7 @@ Active U.S. Department of State — Secret Security Clearance
 
 ### What I'm Working On
 
-**[Prop Trading Performance Dashboard](https://github.com/RyanOrdonez/prop-dashboard-config)** — A desktop analytics platform I built to track my own trading performance across multiple prop firm accounts. Ingests raw trade CSVs, aggregates fills using interval overlap analysis, computes per-day statistics (expectancy, profit factor, drawdown), and models firm-specific payout eligibility rules in real time. Built end-to-end with TypeScript, React, SQLite, and Electron.
+**[Prop Trading Performance Dashboard](https://github.com/RyanOrdonez/Prop-Trading-Dashboard)** — A desktop analytics platform I built to track my own trading performance across multiple prop firm accounts. Ingests raw trade CSVs, aggregates fills using interval overlap analysis, computes per-day statistics (expectancy, profit factor, drawdown), and models firm-specific payout eligibility rules in real time. Built end-to-end with TypeScript, React, SQLite, and Electron.
 
 Currently building two major features:
 
