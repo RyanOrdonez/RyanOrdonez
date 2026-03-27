@@ -9,7 +9,7 @@ Currently building two major features:
 ---
 
 ### Portfolio
-[Portfolio-Site](https://github.com/RyanOrdonez/Portfolio-Site)
+[Portfolio-Site](https://ryanordonez.github.io/Portfolio-Site/)
 
 ---
 
