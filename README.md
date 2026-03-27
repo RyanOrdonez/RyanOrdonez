@@ -34,4 +34,4 @@ Tools: Git, Jupyter, Vite, Electron
 ### Background
 Before data science, I spent two decades in high-stakes operational roles — leading diplomatic security missions at the U.S. Embassy in Baghdad, managing infantry squads through combat deployments, and coordinating cross-functional teams where failure wasn't an option. That background shaped how I approach data problems: structured planning, rigorous validation, and clear communication of results.
 
-[LinkedIn](https://www.linkedin.com/in/ryanordonez/) · [ryanordonez7@gmail.com](mailto:ryanordonez7@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ryanordonez7/) · [ryanordonez7@gmail.com](mailto:ryanordonez7@gmail.com)
