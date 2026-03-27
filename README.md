@@ -8,11 +8,6 @@ Currently building two major features:
 
 ---
 
-### Portfolio
-[Portfolio-Site](https://github.com/RyanOrdonez/Portfolio-Site)
-
----
-
 ### Projects
 
 | # | Project | Description | Tech |
@@ -24,9 +19,8 @@ Currently building two major features:
 
 | Repository | Description |
 |------------|-------------|
-| [Kaggle Challenges](https://github.com/RyanOrdonez/Kaggle-Challenges) | Kaggle competition entries — NLP Disaster Tweets, Monet Style Transfer (GANs), Histopathologic Cancer Detection |
+| [Kaggle Challenges](https://github.com/RyanOrdonez/Kaggle-Challenges) | Kaggle competition entries — NLP Disaster Tweets, Monet Style Transfer with GANs (Rank 20), Histopathologic Cancer Detection |
 | [CU Boulder MSDS](https://github.com/RyanOrdonez/CU-Boulder-MSDS) | Coursework from my MS in Data Science at the University of Colorado Boulder |
-| [Work in Progress](https://github.com/RyanOrdonez/Work-In-Progress) | Projects under active development — DocuChat RAG, Research Agent, Weather ETL, Sentiment API, StockScope, Maevie |
 
 ---
 
@@ -40,4 +34,4 @@ Tools: Git, Jupyter, Vite, Electron
 ### Background
 Before data science, I spent two decades in high-stakes operational roles — leading diplomatic security missions at the U.S. Embassy in Baghdad, managing infantry squads through combat deployments, and coordinating cross-functional teams where failure wasn't an option. That background shaped how I approach data problems: structured planning, rigorous validation, and clear communication of results.
 
-Portfolio Site · LinkedIn · [ryanordonez7@gmail.com](mailto:ryanordonez7@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ryanordonez/) · [ryanordonez7@gmail.com](mailto:ryanordonez7@gmail.com)
