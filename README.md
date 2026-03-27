@@ -1,10 +1,10 @@
 # Ryan Ordonez
 
 ### What I'm Working On
-<a href="https://github.com/RyanOrdonez/Prop-Trading-Dashboard"><img src="https://raw.githubusercontent.com/RyanOrdonez/Prop-Trading-Dashboard/main/screenshots/dashboard.PNG" align="right" width="320" alt="Prop Trading Dashboard"/></a>
-
 [Prop Trading Performance Dashboard](https://github.com/RyanOrdonez/Prop-Trading-Dashboard) — A desktop analytics platform I built to track my own trading performance across multiple prop firm accounts. Ingests raw trade CSVs, aggregates fills using interval overlap analysis, computes per-day statistics (expectancy, profit factor, drawdown), and models firm-specific payout eligibility rules in real time. Built end-to-end with TypeScript, React, SQLite, and Electron.
 Currently building two major features:
+
+<a href="https://github.com/RyanOrdonez/Prop-Trading-Dashboard"><img src="https://raw.githubusercontent.com/RyanOrdonez/Prop-Trading-Dashboard/main/screenshots/dashboard.PNG" align="right" width="320" alt="Prop Trading Dashboard"/></a>
 - Analytics Engine — Algorithmic analysis over the user's trade history to surface performance patterns: optimal time-of-day windows, position sizing vs. P&L, trade duration profiling, win rate by day of week, and behavioral tendencies after streaks and drawdowns. All computed locally through statistical algorithms — no AI dependency.
 - AI Assistant — An LLM-powered layer (GPT-4) with full context over the user's trading data. Includes an automated performance review that identifies strengths, weaknesses, and actionable improvements based on the analytics output, plus a conversational chat interface for querying trade history in natural language (e.g., "How do I perform after a red day?" or "What's my expectancy on trades under 2 minutes?").
 
