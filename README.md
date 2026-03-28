@@ -15,15 +15,15 @@ Currently building two major features:
 <div align="center">
 
 <a href="https://ryanordonez.github.io/Portfolio-Site/projects.html">
-<img src="https://raw.githubusercontent.com/RyanOrdonez/Portfolio-Site/main/docs/assets/cards/projects-card.svg" alt="Projects" width="300" />
+<img src="https://raw.githubusercontent.com/RyanOrdonez/Portfolio-Site/main/docs/assets/cards/projects-card.svg" alt="Projects" width="280" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://ryanordonez.github.io/Portfolio-Site/#about">
-<img src="https://raw.githubusercontent.com/RyanOrdonez/Portfolio-Site/main/docs/assets/cards/about-card.svg" alt="About Me" width="300" />
+<img src="https://raw.githubusercontent.com/RyanOrdonez/Portfolio-Site/main/docs/assets/cards/about-card.svg" alt="About Me" width="280" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://ryanordonez.github.io/Portfolio-Site/blog.html">
-<img src="https://raw.githubusercontent.com/RyanOrdonez/Portfolio-Site/main/docs/assets/cards/blog-card.svg" alt="Blog" width="300" />
+<img src="https://raw.githubusercontent.com/RyanOrdonez/Portfolio-Site/main/docs/assets/cards/blog-card.svg" alt="Blog" width="280" />
 </a>
 
 
