@@ -14,61 +14,25 @@ Currently building two major features:
 
 <div align="center">
 
-[![Portfolio Site](https://img.shields.io/badge/Portfolio_Site-Visit-0a0f1a?style=for-the-badge&logo=github-pages&logoColor=4FC3F7&labelColor=0f1525)](https://ryanordonez.github.io/Portfolio-Site/)
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="300">
-<br>
 <a href="https://ryanordonez.github.io/Portfolio-Site/projects.html">
-<img src="https://img.shields.io/badge/Projects-View_All-111827?style=for-the-badge&logo=readme&logoColor=4FC3F7" alt="Projects" />
+<img src="https://raw.githubusercontent.com/RyanOrdonez/Portfolio-Site/main/docs/assets/cards/projects-card.svg" alt="Projects" width="310" />
 </a>
-<br><br>
-<b>7 Projects</b><br>
-ML, Deep Learning, Full-Stack<br>
-<sub>Detailed methodology, metrics, and code</sub>
-<br><br>
-</td>
-
-<td align="center" width="300">
-<br>
-<a href="https://ryanordonez.github.io/Portfolio-Site/blog.html">
-<img src="https://img.shields.io/badge/Blog-Read_Posts-111827?style=for-the-badge&logo=hashnode&logoColor=4FC3F7" alt="Blog" />
-</a>
-<br><br>
-<b>AI & Data Science Blog</b><br>
-Industry analysis & trends<br>
-<sub>New post every day</sub>
-<br><br>
-</td>
-
-<td align="center" width="300">
-<br>
+&nbsp;&nbsp;&nbsp;
 <a href="https://ryanordonez.github.io/Portfolio-Site/#about">
-<img src="https://img.shields.io/badge/About-Learn_More-111827?style=for-the-badge&logo=aboutdotme&logoColor=4FC3F7" alt="About" />
+<img src="https://raw.githubusercontent.com/RyanOrdonez/Portfolio-Site/main/docs/assets/cards/about-card.svg" alt="About Me" width="310" />
 </a>
-<br><br>
-<b>Background</b><br>
-M.S. Data Science, CU Boulder<br>
-<sub>20+ years operations leadership</sub>
-<br><br>
-</td>
+&nbsp;&nbsp;&nbsp;
+<a href="https://ryanordonez.github.io/Portfolio-Site/blog.html">
+<img src="https://raw.githubusercontent.com/RyanOrdonez/Portfolio-Site/main/docs/assets/cards/blog-card.svg" alt="Blog" width="310" />
+</a>
 
-</tr>
-</table>
 
 </div>
 
 ---
 
-### Projects
+
+### Featured Repos
 
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
