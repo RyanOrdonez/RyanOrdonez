@@ -20,7 +20,7 @@ Most small businesses run on a patchwork of third-party subscriptions that don't
 - **Fully integrated:** every piece shares the same data, so there are no subscription costs piling up, no fragile integrations, and one system the team actually learns and uses
 
 #### House of Maevie Interior Design: *Operations Manager*
-The first system I built was for the studio itself, and it's the proof of concept for the new business. I designed and built House of Maevie's custom company hub, which includes:
+The first system I built was for the studio itself, and it's the proof of concept for the new business. I designed and built House of Maevie's [custom company hub](https://github.com/RyanOrdonez/Maevie-Project-Manager), which includes:
 - **Asana-style task management** for assigning, tracking, and prioritizing work across every project
 - **Design file boards with Canva-like ease** for building and sharing concepts, mood boards, and selections
 - **Client portals** where clients follow their project, review designs, and collaborate with the team in one place
@@ -75,8 +75,9 @@ I spent two decades in high-stakes operational roles: leading diplomatic securit
 
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
-| 1 | [Desert Wolf Trading](https://github.com/RyanOrdonez/Prop-Trading-Dashboard) | Automated trading platform: ML and neural-network trading bots, LLM-assisted backtesting and refinement, multi-account execution, and real-time performance analytics | Python, TypeScript, React, Electron, SQLite, ML/LLMs |
-| 2 | [Rotten Tomatoes Predictor](https://github.com/RyanOrdonez/Rotten-Tomatoes-Predictor) | Predicts Rotten Tomatoes scores from raw screenplay text using BERT fine-tuning and a fusion architecture combining transformer embeddings with numeric features | Python, BERT, PyTorch, NLP |
+| 1 | [House of Maevie Company Hub](https://github.com/RyanOrdonez/Maevie-Project-Manager) | Custom operating platform for House of Maevie Interior Design: Asana-style task management, design file boards, and client portals in one system, replacing multiple third-party subscriptions | React, Node.js, Express, PostgreSQL |
+| 2 | [Desert Wolf Trading](https://github.com/RyanOrdonez/Prop-Trading-Dashboard) | Automated trading platform: ML and neural-network trading bots, LLM-assisted backtesting and refinement, multi-account execution, and real-time performance analytics | Python, TypeScript, React, Electron, SQLite, ML/LLMs |
+| 3 | [Rotten Tomatoes Predictor](https://github.com/RyanOrdonez/Rotten-Tomatoes-Predictor) | Predicts Rotten Tomatoes scores from raw screenplay text using BERT fine-tuning and a fusion architecture combining transformer embeddings with numeric features | Python, BERT, PyTorch, NLP |
 
 ### Other Repositories
 
