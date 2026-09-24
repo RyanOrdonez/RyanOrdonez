@@ -13,8 +13,11 @@ My job is the business behind the design: how projects move from inquiry to inst
 
 #### House of Maevie Business Systems Design
 One custom-built platform that runs the whole studio. Most design firms stitch their business together from a stack of third-party subscriptions that don't talk to each other. I'm replacing that stack with software built specifically for how House of Maevie works:
-- **Website:** the studio's public face, connected directly to the systems behind it so inquiries flow straight into the pipeline
-- **Company hub:** one place for the team to manage clients, projects, procurement, vendors, and documents
+- **Company hub (built):** the studio's internal command center, which includes
+  - Asana-style task management for assigning, tracking, and prioritizing work across every project
+  - Design file boards with Canva-like ease for building and sharing concepts, mood boards, and selections
+  - Client portals where clients follow their project, review designs, and collaborate with the team in one place
+- **Website:** the studio's public face, connected directly to the hub so inquiries flow straight into the pipeline
 - **Dashboards:** live views of project status, capacity, and financials for leadership
 - **Processes & automation:** standardized workflows from first inquiry to final install, with the repetitive admin automated
 - **Fully integrated:** every piece shares the same data, which means no subscription sprawl, no fragile integrations, and one system employees actually learn and use
