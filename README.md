@@ -1,26 +1,31 @@
 # Ryan Ordonez
 
-**Operations Manager @ [House of Maevie](https://houseofmaevie.com/) · Founder, Desert Wolf Trading · MS Data Science · 20 years of military & diplomatic operations**
+**Founder, House of Maevie Business Systems Design · Operations Manager @ [House of Maevie](https://houseofmaevie.com/) · Founder, Desert Wolf Trading · MS Data Science · 20 years of military & diplomatic operations**
 
 ---
 
 ### About
-I run operations at [House of Maevie](https://houseofmaevie.com/), a full-service interior design studio in Raleigh, NC. The studio does major renovations, additions, and new custom homes across the Triangle, working alongside builders and architects from concept through construction and furnishing.
+I build the systems that run small businesses.
 
-My job is the business behind the design: how projects move from inquiry to install, how work is scheduled and tracked, how vendors and trades are coordinated, and how the numbers get reported.
+As Operations Manager at [House of Maevie](https://houseofmaevie.com/), Susanne Ordonez's full-service interior design studio in Raleigh, NC, I run the business behind the design and built the studio's operating systems from the ground up. Now I'm taking that work to other companies through **House of Maevie Business Systems Design**, a new branch of House of Maevie that builds custom, integrated business systems for small businesses.
 
 ### What I'm Building
 
-#### House of Maevie Business Systems Design
-One custom-built platform that runs the whole studio. Most design firms stitch their business together from a stack of third-party subscriptions that don't talk to each other. I'm replacing that stack with software built specifically for how House of Maevie works:
-- **Company hub (built):** the studio's internal command center, which includes
-  - Asana-style task management for assigning, tracking, and prioritizing work across every project
-  - Design file boards with Canva-like ease for building and sharing concepts, mood boards, and selections
-  - Client portals where clients follow their project, review designs, and collaborate with the team in one place
-- **Website:** the studio's public face, connected directly to the hub so inquiries flow straight into the pipeline
-- **Dashboards:** live views of project status, capacity, and financials for leadership
-- **Processes & automation:** standardized workflows from first inquiry to final install, with the repetitive admin automated
-- **Fully integrated:** every piece shares the same data, which means no subscription sprawl, no fragile integrations, and one system employees actually learn and use
+#### House of Maevie Business Systems Design: *Founder*
+Most small businesses run on a patchwork of third-party subscriptions that don't talk to each other. They pay for too many tools, fight constant integration headaches, and have employees who never fully adopt any of them. House of Maevie Business Systems Design replaces that patchwork with **one custom-built platform designed around how each business actually works**:
+- **Website:** a professional public face, wired directly into the systems behind it so leads flow straight into the pipeline
+- **Company hub:** task and project management, file and asset boards, and client portals in one place
+- **Dashboards:** live views of operations, capacity, and financials for owners and leadership
+- **Processes & automation:** documented workflows with the repetitive admin automated
+- **Fully integrated:** every piece shares the same data, so there are no subscription costs piling up, no fragile integrations, and one system the team actually learns and uses
+
+#### House of Maevie Interior Design: *Operations Manager*
+The first system I built was for the studio itself, and it's the proof of concept for the new business. I designed and built House of Maevie's custom company hub, which includes:
+- **Asana-style task management** for assigning, tracking, and prioritizing work across every project
+- **Design file boards with Canva-like ease** for building and sharing concepts, mood boards, and selections
+- **Client portals** where clients follow their project, review designs, and collaborate with the team in one place
+
+Day to day, I run the studio's operations: moving projects from inquiry to install, scheduling, coordinating vendors and trades, and reporting.
 
 #### [Desert Wolf Trading](https://github.com/RyanOrdonez/Prop-Trading-Dashboard)
 <a href="https://github.com/RyanOrdonez/Prop-Trading-Dashboard"><img src="https://raw.githubusercontent.com/RyanOrdonez/Prop-Trading-Dashboard/main/screenshots/dashboard.PNG" align="right" width="320" alt="Desert Wolf Trading"/></a>
